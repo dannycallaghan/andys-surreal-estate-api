@@ -45,8 +45,4 @@ app.listen(PORT, () => {
 
 module.exports.app = app;
 
-<<<<<<< HEAD
-// 1234
-=======
-// 
->>>>>>> 561bd940b2a109f59e4663389bb81ef2e9a466b0
+// 1235
